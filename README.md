@@ -49,7 +49,6 @@ A necessary solution to completely manage product and process orders
 	- adminhtml > productordersuit/index/index
 
 
-## Attributes
 
 
 
